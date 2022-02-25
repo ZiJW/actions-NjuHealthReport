@@ -16,8 +16,8 @@ logging.basicConfig(
 data = {
     # fill them:
     'username': '191250145',  # 学号
-    'password': 'zjwang28',  # 密码
-    'deadline': '2022-6-27', # 填报截止日期，超过该天则停止填报并报错到 actions，开区间
+    'password': '',  # 密码
+    'deadline': '2022-6', # 填报截止日期，超过该天则停止填报并报错到 actions，开区间
 
     'none': 'none'
 }
